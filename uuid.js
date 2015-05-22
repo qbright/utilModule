@@ -38,7 +38,7 @@
  */
 
 define(function () {
-    var YA_UUID = {
+    var UUID = {
         "generate32": function () {
             var dg = new Date(1582, 10, 15, 0, 0, 0, 0);
             var dc = new Date();

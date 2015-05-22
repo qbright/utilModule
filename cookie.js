@@ -7,7 +7,7 @@
  */
 
 
-define(["ya.util"],function (Util) {
+define(["util"],function (Util) {
     var cookie = {
         "init": "",
         "getCookieValue": function (offset) {
